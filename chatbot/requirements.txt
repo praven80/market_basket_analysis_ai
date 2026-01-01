@@ -1,0 +1,7 @@
+streamlit
+boto3
+PyAthena
+langchain==0.2.12
+langchain_community==0.2.11
+langchain_aws==0.1.15
+langchain-core==0.2.28
