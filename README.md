@@ -6,7 +6,7 @@ You can view a short demo video in the "Demo" folder.
 
 ## Architecture Overview
 
-The application uses:
+The application uses the following:
 - AWS Cognito for authentication
 - Amazon ECS (Fargate) for hosting the Streamlit application
 - Amazon DynamoDB for storing query history
